@@ -1,0 +1,24 @@
+{
+  "name": "turtwig-pokemon-site",
+  "version": "1.0.0",
+  "description": "Landing page temática dedicada ao Pokémon **Turtwig**, desenvolvida com HTML, CSS e JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalvidesneto/pokemon-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalvidesneto/pokemon-site/issues"
+  },
+  "homepage": "https://github.com/natalvidesneto/pokemon-site#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "normalize.css": "^8.0.1"
+  }
+}

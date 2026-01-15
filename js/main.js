@@ -1,3 +1,6 @@
+import 'bootstrap';
+
+
 // Dados da API fornecidos
 const pokemonData = {
     abilities: [
