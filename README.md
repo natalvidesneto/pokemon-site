@@ -15,10 +15,10 @@ Projeto estático com animações, seções informativas, estatísticas e efeito
 
 ## 📁 Estrutura
 
-assets/ -> ícones e imagens
-css/ -> estilos
-js/ -> scripts
-index.html -> página principal
+- assets/ -> ícones e imagens
+- css/ -> estilos
+- js/ -> scripts
+- index.html -> página principal
 
 
 ## 🚀 Como usar
